@@ -1,2 +1,3 @@
-# curso-html5
-curso de html pra iniciantes, pois também estou no processo de aprendizagem
+# Curso-HTML5
+
+HTML course for beginners, as I am also in the learning process
